@@ -11,6 +11,8 @@
 
   This project intents to classify messages sent at the time of disaster with the application of data enginnering on natural language and building a pipeline of machine learning for text data classification
   
+  App: 
+![alt text](https://github.com/Akhil-Anurag/Disaster-Response-/blob/master/Capture.PNG "Flask App")
 
 ### Toolkit Used
 
